@@ -1,4 +1,4 @@
-# Exchange_MC
+# Exchange Monte Carlo (Parallel tempering) for an Ising spin glass
 
 The project is divided into 3 folders; the first one for parts 1 and 2, the second one for part 3 and the third one for parts 4 and 5. Each folder contains the 
 code and the input and output files for the respective part. The code has been divided into different parts for each part of the project, since different
